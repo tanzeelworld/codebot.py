@@ -1,0 +1,1 @@
+**CodeBot** is a rule-based Python chatbot designed for interactive terminal conversations. It uses keyword matching to deliver dynamic responses and features standard health and age utilities: an interactive BMI calculator with category mapping and an age calculator providing accurate results in years, months, and days. Built purely with standard Python libraries.
